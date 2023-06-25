@@ -1,0 +1,22 @@
+.cart-items{
+    display:flex;
+    margin-left:50px;
+    /* background-color: aqua; */
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+    margin:30px;
+}
+.cart-left img{
+    height: 190px;
+    width: 190px;
+    border-radius: 5px;
+    margin: 10px;
+    /* background-color: blue; */
+}
+.cart-right{
+    margin-left: 10px;
+    padding:25px;
+    /* background-color: brown; */
+}
